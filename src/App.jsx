@@ -1,6 +1,6 @@
 import Array from "./EjemplosTaller/Array";
-import Arrowfunction from "./EjemplosTaller/Arrowfunction";
 import Modulo from "./EjemplosTaller/Modulo";
+import Arrowfunction from "./EjemplosTaller/Arrowfunction";
 export default function App() {
   return (
     <div>
